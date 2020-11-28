@@ -1,8 +1,8 @@
 # Virtual-Assistant
 Before doing this project you have to install some packages
-pip install PyAudio
+1. pip install PyAudio
 if you not install by PyAudio use
-pip install pipwin
-pip install pyaudio
-pip install gTTS
-pip install wikipedia
+2. pip install pipwin
+3. pip install pyaudio
+4. pip install gTTS
+5. pip install wikipedia
